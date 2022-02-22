@@ -1,0 +1,38 @@
+{
+   "token": "OTM2MTc0MjE0NjkwNTA4ODYw.YfJWLg.oFpL0eHRToClj2nGbGF3uU4UHGQ",
+   "prefix": "//",
+   "ownerIDS": [
+      "759717127484604437"
+   ],
+   "memer_api": "uII6IcpDLyc",
+   "status": {
+      "text": "{prefix}help | Hostila Nodes",
+      "text2": "by BEAST AMPLIFIER#1334",
+      "type": "STREAMING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "node03.lavalink.eu",
+            "port": 2333,
+            "password": "Raccoon"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+      "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": false,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": false,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
